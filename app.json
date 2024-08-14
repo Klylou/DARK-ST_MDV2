@@ -1,5 +1,5 @@
 {
-  "name": "DRK-ST-V2MD",
+  "name": "kaly bot",
   "description": "Advanced WhatsApp bot, DRK-ST-V2MD, created by 𝙎-𝙏𝞢𝞜❟❛❟, designed for seamless automation and enhanced user interactions.",
   "logo": "https://telegra.ph/file/3e1d82ab139d29975cad4.jpg",
   "keywords": ["DRK-ST-V2MD", "Byte", "ĐÆ𝚪𝐊", "𝙎-𝙏𝞢𝞜❟❛❟"],
@@ -8,12 +8,12 @@
 
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",
-      "value": " 🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑",
+      "description": "kalyy",
+      "value": "꧁𓊈𒆜𝚻𝚯𝚮𝐊𝚫 𝐃𝚵𝛁𝚰𝐋’𝐒 𒆜𓊉꧂",
       "required": true
     },
     "SESSION_ID": {
-      "description": "put your SESSION_ID here.",
+      "description": "Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOEV1cjNCU0hWUEFxWXBJRU9qdW5ublBGNTVIYTNDUUxwZDJSdk5DNFNsdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY0dsNXo2SkthdDRrVElocXNyS2gxTFVvL3RRQWc4S3NCR21PMXRhU3BRcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJZQVhmWkt2dWpxK3BHb3RZRmNFZTNlcFpzTXBLU0cxby9GTUIwTFp1bVVZPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJEYmpPb2ZFcGJyaEx5bEh2MVJETi9CczRIT1dRbkZBWWxRWVBDUWxFdFE0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im1IWlQ4WkZmZXg5MUg0MkxUa0U5eG9yUGhyMHpKMHk5ZkpMS0dwVGgvbTg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjFYKzBNeXJXOXVLbkpVUXVsaTVlNy9jWnR3R1ZSQUdKdzU3ODJ2Rk93VGs9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUVyeVFLNmJqK29JcGNLVmxMOUdNcXNYMEhzbmlzdklrQlZoTHlHQ1QzQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUTJxOStOQWgrdXZ4RTA1akVxWk9IeEkrb1hOd1FMeEVFK3Robzh2NW5Yaz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlN3QUg5K3MwMWhueVNMSUFVOGUrYkdiSkxIbWwvRGkrMXdKYkl5d2h6bW9idUxQdlhtNnV3SDkzTytOL1ZveFlQMkdPalMydk9mS3krcmdXVmxwQ0R3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6OSwiYWR2U2VjcmV0S2V5IjoiV1oxdzk4TjNYMHpxVnVGcXVtdXFTRVJ2RW1Md3ZjR0EwWFljOWgveEtYUT0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOltdLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiUGlFMmV4NnhURnlKWGdSbU1oemRFQSIsInBob25lSWQiOiI3YzNiOTlhYS00YWQ4LTQxN2MtYjVjZC1hMDMwNzY0YTA3NzEiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieStUZjNkNkxETitDSnRKdE00MnFUUXdSNlNjPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImlPVlAwYWJZQVBrM1NzSVh1V0ZzL0QvaUtoaz0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJMNVJUNjQyWCIsIm1lIjp7ImlkIjoiNTA5NDA5MzM2MjU6MjhAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1B2dTFlTUhFUFBuODdVR0dBSWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Im51Q3hlWWE4ZGJXd0lEcE10VjZrVHd5b244MDBQdUVXSHpUekJ3Y1k1aVE9IiwiYWNjb3VudFNpZ25hdHVyZSI6IllMbURRUWtpNkNhSEJkdC9wNW9uc2FYdDJ3Y0hueXlnS1RtZUJPY1pLRmI4S2h6cWkwRE1SYmo1Z1IxZHNqV3puZTluaFhBcmhGcnc4RDVZMzJlK0RnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJTQ0d6dGdpUE4wd3JtckdHaUhOVzVWQTN6cnU1c21yYVV6K3FNVnplaVJWOE93Uk00ejhZbW5xSUxjMmpXSFQ1TUZyQlhVMFUxVVZWTnQzRU1KbVNCUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjUwOTQwOTMzNjI1OjI4QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlo3Z3NYbUd2SFcxc0NBNlRMVmVwRThNcUovTk5EN2hGaDgwOHdjSEdPWWsifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjM2NTkyNjV9",
       "value": ""
     },
     "WELCOME": {
@@ -84,7 +84,7 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": "."
+      "value": "$"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
@@ -97,12 +97,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝙎-𝙏𝞢𝞜",
+      "value": "kaly",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝙎-𝙏𝞢𝞜❟❛❟ 🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑",
+      "value": "kaly❟❛❟ ꧁𓊈𒆜𝚻𝚯𝚮𝐊𝚫 𝐃𝚵𝛁𝚰𝐋’𝐒 𒆜𓊉꧂"
       "required": false
     }
   },
